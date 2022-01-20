@@ -1,0 +1,4 @@
+-std=c++latest
+-Wall
+-Wextra
+
