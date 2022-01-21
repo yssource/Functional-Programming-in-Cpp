@@ -1,4 +1,4 @@
--std=c++latest
+-std=c++17
 -Wall
 -Wextra
 
